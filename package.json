@@ -7,7 +7,7 @@
     "open",
     "graph",
     "facebook",
-    "twitter"
+    "twitter",
     "parser",
     "middleware",
     "express",
@@ -19,7 +19,9 @@
     "phantomjs",
     "webapp",
     "crawl",
-    "static"
+    "static",
+    "google",
+    "search"
   ],
   "author": {
     "name": "Maxime Mezrahi"
